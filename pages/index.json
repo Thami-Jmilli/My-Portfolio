@@ -1,0 +1,62 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Thami J",
+    "subtitle": "I'm a Software Engineer."
+  },
+  "about": {
+    "title": "About Me",
+    "image": "/image1.PNG",
+    "primary": "I’m a Software Engineer who loves transforming ideas into reliable, scalable products. Over time, I’ve explored several technologies and found my passion in building high-performance systems and intuitive user experiences.",
+    "secondary": "I’m proficient in JavaScript, C++, Rust, Node.js, and Java —and whenever possible, I love building projects with Node.js and modern frameworks like React.js and Next.js.  "
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "GO-GO gadgets",
+        "description": "This is a redesigned website of a business that sells electronic products  by using the Bootstrap framework. The project demonstrates an enhanced user experience, improved aesthetics, and optimized performance on both desktop and mobile devices.",
+        "url": "https://spiffy-queijadas-245a1b.netlify.app/",
+        "github": "https://github.com/Thami-Jmilli/individual-menu-website.gitt",
+        "image": "/image3.PNG"
+      },
+      {
+				"title": "Food menu",
+				"description": "A simple menu-style webpage using HTML and CSS. The project present a collection of food items and beverages, each accompanied by a description and price. The design is clean and visually appealing, making it easy for users to navigate and explore the menu offerings.",
+				"url": "https://foodmenu21.netlify.app//",
+        "github": "https://github.com/Thami-Jmilli/Food-menu.git",
+				"image": "/image2.PNG"
+			},
+      {
+				"title": "Group project",
+				"description": " This project was collaborative, involving teamwork and communication skills. It helped me learn how to work effectively in a group setting and manage shared responsibilities.",
+				"url": "graceful-chimera-240bda.netlify.app",
+        "github": "https://github.com/Thami-Jmilli/Group-project.git",
+				"image": "/image4.PNG"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "xwvnyyql"
+  },
+  "footer": {
+		"linkedin": "https://github.com/Thami-Jmilli",
+		"twitter": "https://github.com/Thami-Jmilli",
+		"github": "https://github.com/Thami-Jmilli"
+	}
+}
